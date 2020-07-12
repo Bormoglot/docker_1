@@ -1,0 +1,1 @@
+apt update && apt upgrade && apt install gcc libc-dev make git vim

@@ -1,0 +1,1 @@
+docker run --detach --publish 5000:80 --restart always --name overlord nginx:1.19
